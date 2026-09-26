@@ -188,4 +188,4 @@ if st.button("Predict Purchase", type="primary"):
         st.warning(
             "The customer is unlikely to purchase the tourism package."
         )
-```
+
